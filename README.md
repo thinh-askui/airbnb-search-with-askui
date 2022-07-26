@@ -7,7 +7,7 @@
 
 You can reproduce this example on your local machine.
 Just open a browser and open the page askui.com.
-Then you can execute the project
+Then you can execute the project.
 
 ## Usage
 
