@@ -1,7 +1,7 @@
 # airbnb-search-with-askui
 
  This is an example project which shows the usage of the [askui lib](https://github.com/askui/askui). 
- We use the library to automate: Closing Duplicated Github Issues.
+ We use the library to automate: Searching for Rooms on Airbnb.
 
 ## Reproduce
 
