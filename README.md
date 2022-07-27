@@ -3,13 +3,10 @@
  This is an example project which shows the usage of the [askui lib](https://github.com/askui/askui). 
  We use the library to automate: Searching for Rooms on Airbnb.
 
-## Reproduce
+## Usage
 
 You can reproduce this example on your local machine.
-Just open a browser and open the page askui.com.
-Then you can execute the project.
-
-## Usage
+Open the page askui.com on your favored browser.
 
 Install all necessary packages:
 
@@ -22,6 +19,8 @@ Execute the example project:
 ```shell
 npx jest --config ./test/jest.config.ts
 ```
+
+![Searching for rooms in Paris with askui](airbnb-search.png)
 
 ## Notes
 
