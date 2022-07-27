@@ -22,7 +22,7 @@ npx jest --config ./test/jest.config.ts
 
 ## Searching for rooms in Paris with askui
 
-![Searching for rooms in Paris with askui](airbnb-search.png)
+![Searching for rooms in Paris with askui](askui-airbnb-search.png)
 
 ## Notes
 
