@@ -20,7 +20,7 @@ Execute the example project:
 npx jest --config ./test/jest.config.ts
 ```
 
-![Searching for rooms in Paris with askui](airbnb-search.png)
+![Searching for rooms in Paris with askui](airbnb-search.png "Searching for rooms in Paris with askui")
 
 ## Notes
 
