@@ -5,7 +5,8 @@
 
 ## Usage
 
-You can reproduce this example on your local machine.
+You can reproduce this example on your local machine:
+
 Open the page askui.com on your favored browser.
 
 Install all necessary packages:
